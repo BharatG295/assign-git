@@ -1,6 +1,6 @@
 What is a gitignore file and what should it include for a Java project?
  A) gitignore files contain all the files that can be ignored while staging the changes.
-    These files may include the files which are different for every computer configration or which nit be needed to
+    These files may include the files which are different for every computer configuration or which not be needed to
      get updated for functioning of Project.
 
 	For Java the files are:
